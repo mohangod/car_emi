@@ -21,7 +21,7 @@
       "task_key": "auto_mark_paid",
       "run_if": "ALL_SUCCESS",
       "notebook_task": {
-        "notebook_path": "/Users/mohangodm@gmail.com/car_emi/rough",
+        "notebook_path": "/Users/mohangodm@gmail.com/car_emi/car_emi_notebook",
         "source": "WORKSPACE"
       },
       "timeout_seconds": 0
